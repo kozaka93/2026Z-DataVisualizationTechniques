@@ -6,8 +6,8 @@ Materiały z zajęć *Techniki wizualizacji danych* prowadzonych na Wydziale Mat
 Techniki wizualizacji danych składają się z:
 
 -   wykładu [@kozaka93](https://github.com/kozaka93)
--   zajęć laboratoryjnych [@kozaka93](https://github.com/kozaka93) [@xxkaro](https://github.com/xxkaro) [@xx](https://github.com) [@yy](https://github.com) [@woznicak](https://github.com/woznicak)
--   zajęć projektowych [@kozaka93](https://github.com/kozaka93) [@danielewskai](https://github.com/danielewskai) [@xx](https://github.com/) [@woznicak](https://github.com/woznicak)
+-   zajęć laboratoryjnych [@kozaka93](https://github.com/kozaka93) [@xxkaro](https://github.com/xxkaro) [@rymmik](https://github.com/rymmik) [@FSalinski](https://github.com/FSalinski) [@woznicak](https://github.com/woznicak)
+-   zajęć projektowych [@kozaka93](https://github.com/kozaka93) [@danielewskai](https://github.com/danielewskai) [@rymmik](https://github.com/rymmik) [@woznicak](https://github.com/woznicak)
 
 ### Terminy i tematy zajęć
 
