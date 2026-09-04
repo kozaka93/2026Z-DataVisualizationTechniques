@@ -30,7 +30,7 @@ Techniki wizualizacji danych składają się z:
   </tr></thead>
 <tbody>
   <tr>
-    <td rowspan="2"></td>
+    <td rowspan="2">07.10.</td>
     <td rowspan="2">1</td>
     <td>2</td>
     <td>wykład</td>
@@ -44,7 +44,7 @@ Techniki wizualizacji danych składają się z:
     <td></td>
   </tr>
   <tr>
-    <td rowspan="2"></td>
+    <td rowspan="2">14.10.</td>
     <td rowspan="2">2</td>
     <td>2</td>
     <td>wykład</td>
@@ -58,7 +58,7 @@ Techniki wizualizacji danych składają się z:
     <td></td>
   </tr>
   <tr>
-    <td rowspan="2"></td>
+    <td rowspan="2">21.10.</td>
     <td rowspan="2">3</td>
     <td>2</td>
     <td>projekt</td>
@@ -72,7 +72,7 @@ Techniki wizualizacji danych składają się z:
     <td></td>
   </tr>
   <tr>
-    <td rowspan="2"></td>
+    <td rowspan="2">28.10.</td>
     <td rowspan="2">4</td>
     <td>2</td>
     <td>wykład</td>
@@ -86,7 +86,7 @@ Techniki wizualizacji danych składają się z:
     <td>PD1 (6p)</td>
   </tr>
   <tr>
-    <td rowspan="2"></td>
+    <td rowspan="2">04.11.</td>
     <td rowspan="2">5</td>
     <td>2</td>
     <td>projekt</td>
@@ -100,7 +100,7 @@ Techniki wizualizacji danych składają się z:
     <td></td>
   </tr>
   <tr>
-    <td rowspan="2"></td>
+    <td rowspan="2">13.11.</td>
     <td rowspan="2">6</td>
     <td>2</td>
     <td>wykład</td>
@@ -114,7 +114,7 @@ Techniki wizualizacji danych składają się z:
     <td>PD2 (6p)</td>
   </tr>
   <tr>
-    <td rowspan="2"></td>
+    <td rowspan="2">18.11.</td>
     <td rowspan="2">7</td>
     <td>2</td>
     <td>projekt</td>
@@ -128,7 +128,7 @@ Techniki wizualizacji danych składają się z:
     <td></td>
   </tr>
   <tr>
-    <td rowspan="3"></td>
+    <td rowspan="3">25.11.</td>
     <td rowspan="3">8</td>
     <td>1</td>
     <td>wykład</td>
@@ -146,7 +146,7 @@ Techniki wizualizacji danych składają się z:
     <td></td>
   </tr>
   <tr>
-    <td rowspan="2"></td>
+    <td rowspan="2">02.12.</td>
     <td rowspan="2">9</td>
     <td>2</td>
     <td>wykład</td>
@@ -160,7 +160,7 @@ Techniki wizualizacji danych składają się z:
     <td>PD3 (6p)</td>
   </tr>
   <tr>
-    <td rowspan="2"></td>
+    <td rowspan="2">09.12.</td>
     <td rowspan="2">10</td>
     <td>2</td>
     <td>projekt</td>
@@ -174,7 +174,7 @@ Techniki wizualizacji danych składają się z:
     <td></td>
   </tr>
   <tr>
-    <td rowspan="2"></td>
+    <td rowspan="2">16.12.</td>
     <td rowspan="2">11</td>
     <td>2</td>
     <td>wykład</td>
@@ -188,7 +188,7 @@ Techniki wizualizacji danych składają się z:
     <td>PD4 (6p)</td>
   </tr>
   <tr>
-    <td rowspan="2"></td>
+    <td rowspan="2">23.12.</td>
     <td rowspan="2">12</td>
     <td>2</td>
     <td>projekt</td>
@@ -202,7 +202,7 @@ Techniki wizualizacji danych składają się z:
     <td></td>
   </tr>
   <tr>
-    <td rowspan="3"></td>
+    <td rowspan="3">13.01.</td>
     <td rowspan="3">13</td>
     <td>1</td>
     <td>projekt</td>
@@ -222,7 +222,7 @@ Techniki wizualizacji danych składają się z:
     <td>PD5 (6p)</td>
   </tr>
   <tr>
-    <td rowspan="2"></td>
+    <td rowspan="2">20.01.</td>
     <td rowspan="2">14</td>
     <td>2</td>
     <td>projekt</td>
@@ -236,7 +236,7 @@ Techniki wizualizacji danych składają się z:
     <td></td>
   </tr>
   <tr>
-    <td rowspan="3"></td>
+    <td rowspan="3">27.01.</td>
     <td rowspan="3">15</td>
     <td>1</td>
     <td>wykład</td>
