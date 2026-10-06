@@ -34,7 +34,7 @@ Techniki wizualizacji danych składają się z:
     <td rowspan="2">1</td>
     <td>2</td>
     <td>wykład</td>
-    <td>Wstęp, zasady zaliczenia, eksploracja danych, narzędzia, przedstawienie tematyki projektów</td>
+    <td><a href="https://github.com/kozaka93/2026Z-DataVisualizationTechniques/blob/main/lectures/L01-Intro.pdf">Wstęp, zasady zaliczenia</a>, <a href="https://github.com/kozaka93/2026Z-DataVisualizationTechniques/blob/main/lectures/L01-DataViz.pdf">eksploracja danych, narzędzia</a>, <a href="https://github.com/kozaka93/2026Z-DataVisualizationTechniques/tree/main/projects/project1">przedstawienie tematyki projektów</a></td>
     <td></td>
   </tr>
   <tr>
