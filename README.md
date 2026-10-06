@@ -40,7 +40,7 @@ Techniki wizualizacji danych składają się z:
   <tr>
     <td>2</td>
     <td>lab</td>
-    <td>R: wstęp, powtórka R, wstęp dplyr</td>
+    <td><a href="https://github.com/kozaka93/2026Z-DataVisualizationTechniques/tree/main/labs/lab01">R: wstęp, powtórka R, wstęp dplyr</a></td>
     <td></td>
   </tr>
   <tr>
