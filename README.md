@@ -54,7 +54,7 @@ Techniki wizualizacji danych składają się z:
   <tr>
     <td>2</td>
     <td>lab</td>
-    <td>R: dplyr, tidyr, idea ggplot2</td>
+    <td><a href="https://github.com/kozaka93/2026Z-DataVisualizationTechniques/tree/main/labs/lab02">R: dplyr, tidyr, idea ggplot2</a></td>
     <td></td>
   </tr>
   <tr>
