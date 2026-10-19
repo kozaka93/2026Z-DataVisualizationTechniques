@@ -48,7 +48,7 @@ Techniki wizualizacji danych składają się z:
     <td rowspan="2">2</td>
     <td>2</td>
     <td>wykład</td>
-    <td>Sposoby badania rozkładu jednej zmiennej (ilościowej i jakościowej), sposoby badania rozkładu dwóch i więcej zmiennych</td>
+    <td><a href="https://github.com/kozaka93/2026Z-DataVisualizationTechniques/tree/main/lectures/L02-plots">Sposoby badania rozkładu jednej zmiennej (ilościowej i jakościowej), sposoby badania rozkładu dwóch i więcej zmiennych</a></td>
     <td></td>
   </tr>
   <tr>
@@ -68,7 +68,7 @@ Techniki wizualizacji danych składają się z:
   <tr>
     <td>2</td>
     <td>lab</td>
-    <td>R: ggplot2 - badanie rozkładu jednej zmiennej, wielu zmiennych</td>
+    <td><a href="https://github.com/kozaka93/2026Z-DataVisualizationTechniques/tree/main/labs/lab03">R: ggplot2 - badanie rozkładu jednej zmiennej, wielu zmiennych</a></td>
     <td></td>
   </tr>
   <tr>
