@@ -62,7 +62,7 @@ Techniki wizualizacji danych składają się z:
     <td rowspan="2">3</td>
     <td>2</td>
     <td>projekt</td>
-    <td>P1: pomysł, źródło danych</td>
+    <td><i>P1: pomysł, źródło danych</i></td>
     <td>P1 (1p)</td>
   </tr>
   <tr>
@@ -82,7 +82,7 @@ Techniki wizualizacji danych składają się z:
   <tr>
     <td>2</td>
     <td>lab</td>
-    <td>R: ggplot2 - skale, osie, kolor, legenda</td>
+    <td><a href="https://github.com/kozaka93/2026Z-DataVisualizationTechniques/tree/main/labs/lab04">R: ggplot2 - skale, osie, kolor, legenda</a></td>
     <td>PD1 (6p)</td>
   </tr>
   <tr>
