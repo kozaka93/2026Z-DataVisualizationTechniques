@@ -76,7 +76,7 @@ Techniki wizualizacji danych składają się z:
     <td rowspan="2">4</td>
     <td>2</td>
     <td>wykład</td>
-    <td>Kolory i skale, mapy - czy to takie skomplikowane?</td>
+    <td><a href="https://github.com/kozaka93/2026Z-DataVisualizationTechniques/blob/main/lectures/L03-colors_scales.pdf">Kolory i skale,</a> <a href="https://github.com/kozaka93/2026Z-DataVisualizationTechniques/blob/main/lectures/L03-maps.pdf">mapy - czy to takie skomplikowane?</a></td>
     <td></td>
   </tr>
   <tr>
@@ -90,13 +90,13 @@ Techniki wizualizacji danych składają się z:
     <td rowspan="2">5</td>
     <td>2</td>
     <td>projekt</td>
-    <td>P1: Prosta eksploracja danych, pomysły na wykresy, prototypy wykresów</td>
+    <td><i>P1: Prosta eksploracja danych, pomysły na wykresy, prototypy wykresów</i></td>
     <td>P1 (2p)</td>
   </tr>
   <tr>
     <td>2</td>
     <td>lab</td>
-    <td>R: ggplot2 - theme, panele, mapy</td>
+    <td><a href="https://github.com/kozaka93/2026Z-DataVisualizationTechniques/tree/main/labs/lab05">R: ggplot2 - theme, panele, mapy</a></td>
     <td></td>
   </tr>
   <tr>
