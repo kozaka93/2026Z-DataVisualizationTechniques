@@ -104,7 +104,7 @@ Techniki wizualizacji danych składają się z:
     <td rowspan="2">6</td>
     <td>2</td>
     <td>wykład</td>
-    <td>Nie popełniaj tych błędów</td>
+    <td><a href="https://github.com/kozaka93/2026Z-DataVisualizationTechniques/blob/main/lectures/L04-mistakes.pdf">Nie popełniaj tych błędów</a></td>
     <td></td>
   </tr>
   <tr>
@@ -118,13 +118,13 @@ Techniki wizualizacji danych składają się z:
     <td rowspan="2">7</td>
     <td>2</td>
     <td>projekt</td>
-    <td>P1: gotowe wykresy, projekt plakatu</td>
+    <td><i>P1: gotowe wykresy, projekt plakatu</i></td>
     <td>P1 (2p)</td>
   </tr>
   <tr>
     <td>2</td>
     <td>lab</td>
-    <td>R: patchwork, ggrepel</td>
+    <td><a href="https://github.com/kozaka93/2026Z-DataVisualizationTechniques/tree/main/labs/lab07">R: patchwork, ggrepel</a></td>
     <td></td>
   </tr>
   <tr>
