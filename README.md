@@ -132,7 +132,7 @@ Techniki wizualizacji danych składają się z:
     <td rowspan="3">8</td>
     <td>1</td>
     <td>wykład</td>
-    <td rowspan="2">Oddanie P1</td>
+    <td rowspan="2"><i>Oddanie P1</i></td>
     <td rowspan="2">P1 (20p)</td>
   </tr>
   <tr>
@@ -142,7 +142,7 @@ Techniki wizualizacji danych składają się z:
   <tr>
     <td>2</td>
     <td>lab</td>
-    <td>R: plotly, leaflet</td>
+    <td><a href="https://github.com/kozaka93/2026Z-DataVisualizationTechniques/tree/main/labs/lab08">R: plotly, leaflet</a></td>
     <td></td>
   </tr>
   <tr>
