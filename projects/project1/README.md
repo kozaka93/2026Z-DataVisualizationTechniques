@@ -1,82 +1,82 @@
 # P1: Polska pod lupą :mag: 
 
-Kozieł Kalina,  Gardziejewska Dominika,  Grzesiak Patrycja,  Ciborowska Marcela
+Autorzy: Kozieł Kalina,  Gardziejewska Dominika,  Grzesiak Patrycja,  Ciborowska Marcela
 
 <img src='png/Grupa1.png' align='center' width='600'/>
 
-Nowrotek Nikola,  Mucha Zofia,  Borda-Sieczkowski Miłosz,  Zbrzeżny Stanisław
+Autorzy: Nowrotek Nikola,  Mucha Zofia,  Borda-Sieczkowski Miłosz,  Zbrzeżny Stanisław
 
 <img src='png/Grupa2.png' align='center' width='600'/>
 
-Magdaleńska Małgorzata,  Kowalczyk Hanna,  Grzywacz Miłosz,  Bołtuć Hanna
+Autorzy: Magdaleńska Małgorzata,  Kowalczyk Hanna,  Grzywacz Miłosz,  Bołtuć Hanna
 
 <img src='png/Grupa3.png' align='center' width='600'/>
 
-Sikora Robert,  Siatkowski Kacper,  Jóźwik Michał,  Duda Rafał
+Autorzy: Sikora Robert,  Siatkowski Kacper,  Jóźwik Michał,  Duda Rafał
 
 <img src='png/Grupa4.png' align='center' width='600'/>
 
-Pernak Oliwia,  Nowak Tymon,  Podgórski Mateusz,  Olzak Julia
+Autorzy: Pernak Oliwia,  Nowak Tymon,  Podgórski Mateusz,  Olzak Julia
 
 <img src='png/Grupa5.png' align='center' width='600'/>
 
-Prokopczuk Igor,  Nowicki Filip,  Pyciarz Martyna,  Kwiatkowska Alicja
+Autorzy: Prokopczuk Igor,  Nowicki Filip,  Pyciarz Martyna,  Kwiatkowska Alicja
 
 <img src='png/Grupa6.png' align='center' width='600'/>
 
-Pawłowski Szymon,  Pawlina Rafał,  Pytlewski Jan,  Majchrzak Szymon
+Autorzy: Pawłowski Szymon,  Pawlina Rafał,  Pytlewski Jan,  Majchrzak Szymon
 
 <img src='png/Grupa7.png' align='center' width='600'/>
 
-Wawszczyk Jeremi,  Rumiński Oskar,  Piwczyńska Antonina,  Parys Emilia
+Autorzy: Wawszczyk Jeremi,  Rumiński Oskar,  Piwczyńska Antonina,  Parys Emilia
 
 <img src='png/Grupa8.png' align='center' width='600'/>
 
-Lisicka Alicja,  Porębski Kamil,  Kras Krystian,  Kuś Wojciech
+Autorzy: Lisicka Alicja,  Porębski Kamil,  Kras Krystian,  Kuś Wojciech
 
 <img src='png/Grupa9.png' align='center' width='600'/>
 
-Sushenok Ulyana,  Arciuch Mariana,  Stasiak Maja,  Adamarek Piotr
+Autorzy: Sushenok Ulyana,  Arciuch Mariana,  Stasiak Maja,  Adamarek Piotr
 
 <img src='png/Grupa10.png' align='center' width='600'/>
 
-Bentlewska Pola,  Domżał Julia,  Podziemska Róża,  Szmigielska Matylda
+Autorzy: Bentlewska Pola,  Domżał Julia,  Podziemska Róża,  Szmigielska Matylda
 
 <img src='png/Grupa11.png' align='center' width='600'/>
 
-Gryzio Michał,  Kluczny Dagobert,  Marciniak Dawid,  Choszczyk Aleksandra
+Autorzy: Gryzio Michał,  Kluczny Dagobert,  Marciniak Dawid,  Choszczyk Aleksandra
 
 <img src='png/Grupa12.png' align='center' width='600'/>
 
-Rutkowska Aleksandra,  Szewczak Krzysztof,  Wołk Mateusz,  Szata Franciszek
+Autorzy: Rutkowska Aleksandra,  Szewczak Krzysztof,  Wołk Mateusz,  Szata Franciszek
 
 <img src='png/Grupa13.png' align='center' width='600'/>
 
-Schab Hanna,  Sroczyńska Anna,  Startek Dominika,  Czarnomski Kacper
+Autorzy: Schab Hanna,  Sroczyńska Anna,  Startek Dominika,  Czarnomski Kacper
 
 <img src='png/Grupa14.png' align='center' width='600'/>
 
-Ordak Paweł,  Narulski Mikołaj,  Kliniewski Paweł,  Chuzha Oleksandr
+Autorzy: Ordak Paweł,  Narulski Mikołaj,  Kliniewski Paweł,  Chuzha Oleksandr
 
 <img src='png/Grupa15.png' align='center' width='600'/>
 
-Beczek Jakub,  Kamiński Kamil,  Jerzowski Marceli,  Gocłowski Cyprian
+Autorzy: Beczek Jakub,  Kamiński Kamil,  Jerzowski Marceli,  Gocłowski Cyprian
 
 <img src='png/Grupa16.png' align='center' width='600'/>
 
-Chaciński Rafał,  Czaplicki Igor,  Filipkowski Piotr,  Iwanowski Antoni
+Autorzy: Chaciński Rafał,  Czaplicki Igor,  Filipkowski Piotr,  Iwanowski Antoni
 
 <img src='png/Grupa17.png' align='center' width='600'/>
 
-Shtyk Artem,  Divnych Sviatoslav
+Autorzy: Shtyk Artem,  Divnych Sviatoslav
 
 <img src='png/Grupa18.png' align='center' width='600'/>
 
-Pirshtuk Roman,  Ridkokasha Mykola,  Dziarhauka Marta
+Autorzy: Pirshtuk Roman,  Ridkokasha Mykola,  Dziarhauka Marta
 
 <img src='png/Grupa19.png' align='center' width='600'/>
 
-Rusiecka Dominika,  Sowa Hanna,  Chałaj Wojciech
+Autorzy: Rusiecka Dominika,  Sowa Hanna,  Chałaj Wojciech
 
 <img src='png/Grupa20.png' align='center' width='600'/>
 
